@@ -163,3 +163,14 @@ li {
 .slide-in li{	
   left: 150px;
 }
+
+.mystyle {
+  width: 100%;
+  padding: 25px;
+  background-color: coral;
+  color: white;
+  font-size: 25px;
+  box-sizing: border-box;
+}
+
+/* https://www.youtube.com/watch?v=NFcVn7Cf8AA */
